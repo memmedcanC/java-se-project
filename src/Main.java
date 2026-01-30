@@ -5,5 +5,6 @@ public class Main {
         String a = "Java"+1+2+"Quiz"+""+(4+5);
         System.out.println(a);
         System.out.println("Salam");
+        System.out.println("SALAM");
     }
 }
